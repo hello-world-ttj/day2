@@ -15,7 +15,7 @@
     line-height: 31px;
 }
 
-.card{
+.card, .card1{
     width: 18rem;
 }
 
@@ -50,6 +50,11 @@
     .card {
         width: auto;
     }
+
+    .card1Div{
+        margin-right: 200px;
+    }
+
     .map{
         width: 350px;
         height: 250px;
